@@ -13,12 +13,12 @@ In this project, I set up a mini honeynet in Azure, where I collect logs from mu
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ## Architecture Before Hardening / Security Controls
-![image]![before-security-controls](https://github.com/user-attachments/assets/66b147a4-6483-4a6b-8def-f4ede33bc43d)
+[before-security-controls](https://github.com/user-attachments/assets/66b147a4-6483-4a6b-8def-f4ede33bc43d)
 
 
 
 ## Architecture After Hardening / Security Controls
-![image]![after_controls](https://github.com/user-attachments/assets/fa08bc93-a28c-4f7a-a364-c4868f0eab2a)
+[after_controls](https://github.com/user-attachments/assets/fa08bc93-a28c-4f7a-a364-c4868f0eab2a)
 
 
 
